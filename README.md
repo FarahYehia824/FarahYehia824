@@ -10,16 +10,15 @@
 
 ## 🧠 About Me
 
-```python
-farah = {
-    "name"      : "Farah Yehia Ismail",
-    "focus"     : ["Machine Learning", "Deep Learning", "Data Science", "NLP & LLMs"],
-    "currently" : "Building AI/ML projects & exploring Large Language Models",
-    "learning"  : ["LLMs", "Prompt Engineering", "Advanced Deep Learning"],
-    "open_to"   : ["AI Engineer", "ML Engineer", "Data Scientist"],
-    "contact"   : "faraahyehia@gmail.com"
-}
-```
+Computer Science student passionate about AI & Machine Learning, with hands-on experience building intelligent systems and data-driven solutions.
+
+| | |
+|---|---|
+| 🔭 **Working on** | ML/DL projects & Large Language Models |
+| 🌱 **Learning** | LLMs, Prompt Engineering, Advanced Deep Learning |
+| 🎯 **Focus** | Data Science · Machine Learning · NLP |
+| 💼 **Open to** | AI Engineer · ML Engineer · Data Scientist |
+| 📫 **Contact** | faraahyehia@gmail.com |
 
 ---
 
@@ -58,18 +57,28 @@ farah = {
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=FarahYehia824&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FarahYehia824&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarahYehia824&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=FarahYehia824&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -88,9 +97,8 @@ farah = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farah-yehia-96b99435a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faraahyehia@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_KAGGLE)
 
 </div>
 
@@ -98,7 +106,7 @@ farah = {
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=70a5fd&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=FarahYehia824&color=70a5fd&style=flat-square&label=Profile+Views)
 
 *"The goal is to turn data into information, and information into insight."* ✨
 
