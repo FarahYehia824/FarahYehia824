@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Farah Yehia Ismail 👋🤖
+# Hi there, I'm Farah Yehia Ismail 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Data+Science+%7C+Deep+Learning;NLP+%26+LLMs+Explorer;Turning+data+into+insights+%F0%9F%9A%80" alt="Typing SVG" />
 
